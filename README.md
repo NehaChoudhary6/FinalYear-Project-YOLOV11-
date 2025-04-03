@@ -44,19 +44,19 @@ I was responsible for testing YOLOv11 on various input sources:
 
 Each group member trained and tested a different YOLO version:
 
-Sneha Das - YOLOv8
-Amanpreet Kaur - YOLOv9
-Dhanesh Dadheech - YOLOv7
-Chetna Saraf - YOLOv5
+Sneha Das - YOLOv8,
+Amanpreet Kaur - YOLOv9,
+Dhanesh Dadheech - YOLOv7,
+Chetna Saraf - YOLOv5,
 
 We compared all models to determine which one achieves the best accuracy. The best-performing model will be finalized for our project. 🎯
 
 **Tools & Technologies 🛠️**
 
-Google Colab (A100 GPU)
-PyCharm (Community Edition)
-Roboflow (Dataset)
-OpenCV, YOLO, PyTorch, Ultralytics,albumentations
+Google Colab (A100 GPU),
+PyCharm (Community Edition),
+Roboflow (Dataset),
+OpenCV, YOLO, PyTorch, Ultralytics,albumentations,
 Results & Conclusion 🏆
 
 🔗 References
