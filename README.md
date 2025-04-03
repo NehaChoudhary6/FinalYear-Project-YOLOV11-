@@ -57,12 +57,10 @@ Google Colab (A100 GPU),
 PyCharm (Community Edition),
 Roboflow (Dataset),
 OpenCV, YOLO, PyTorch, Ultralytics,albumentations,
-Results & Conclusion 🏆
 
-🔗 References
-
+**🔗 References**
 YOLOv11 GitHub Repository
 Roboflow Dataset (https://roboflow.com/)
 
-
+**Results & Conclusion 🏆**
 📢 Stay tuned for the final accuracy comparison and model selection!
