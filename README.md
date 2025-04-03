@@ -7,11 +7,11 @@ This project is part of our final year research on Weapon Detection and Tracking
 
 **Group Members 👥**
 
-Neha Choudhary (Leader)
-Sneha Das
-Amanpreet Kaur
-Chetna Saraf
-Dhanesh Dadheech
+Neha Choudhary (Leader),
+Sneha Das,
+Amanpreet Kaur,
+Chetna Saraf,
+Dhanesh Dadheech,
 
 **Mentor 👨‍🏫**
 
