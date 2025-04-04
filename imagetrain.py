@@ -7,7 +7,7 @@ model_path = "weights/best.pt"  # Ensure this path is correct
 model = YOLO(model_path)
 
 # Load an image for testing
-image_path = "IMAGES/onlyknife.jpg"  # Change this to your test image path
+image_path = "IMAGES/pistolman.jpg"  # Change this to your test image path
 image = cv2.imread(image_path)
 
 # Perform inference
