@@ -62,6 +62,7 @@ OpenCV, YOLO, PyTorch, Ultralytics,albumentations,
 **🔗 References**
 YOLOv11 GitHub Repository
 Roboflow Dataset (https://roboflow.com/)
+Used Dataset (https://universe.roboflow.com/elyspose/weapon-detect-elysium-data)
 
 **Results & Conclusion 🏆**
 📢 Stay tuned for the final accuracy comparison and model selection!
